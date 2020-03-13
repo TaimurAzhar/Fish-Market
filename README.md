@@ -12,5 +12,5 @@ Choose Store                  |  Logged Out
 
 
 Logged In        |  
-:-------------------------:|:-------------------------:
+:-------------------------:|
 ![NEP](screenshots/LoggedIn.png?raw=true "NEP")|  
